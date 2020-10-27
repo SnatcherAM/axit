@@ -4,6 +4,7 @@ body {
     font-size: 14px;
     line-height: 1.6;
     color: #86878b;
+    overflow-x: hidden;
 }
 
 *,
